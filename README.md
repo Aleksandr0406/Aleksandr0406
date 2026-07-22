@@ -1,6 +1,6 @@
 ## Hi, I'm Aleksandr 👋
 
-### iOS Developer
+
 
 😼 Продумываю создание котик-приложения
 
